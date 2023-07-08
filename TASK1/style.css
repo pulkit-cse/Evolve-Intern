@@ -97,6 +97,12 @@ nav {
   color: var(--primary-color);
 }
 
+#slogan{
+  font-size: 0.8rem;
+  font-weight: 550;
+  text-indent: 8rem;
+}
+
 .nav__links {
   list-style: none;
   display: flex;
